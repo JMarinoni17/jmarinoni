@@ -1,3 +1,9 @@
 #include <stdio.h>
 
-asdada
+void main (void){
+  
+  
+  
+  
+ return (0) 
+}
